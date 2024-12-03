@@ -1,0 +1,44 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Assistant:wght@500&family=Edu+AU+VIC+WA+NT+Arrows:wght@400..700&family=Roboto:wght@100&display=swap');
+
+.bucket-transfer {
+  display: flex;
+  justify-content: center;
+  margin-left: 400px;
+  font-family: "Assistant", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.bucket {
+  border: 1px solid #ccc;
+  flex-direction: column;
+  padding: 20px;
+  margin-left: 15px;
+}
+
+.bucket ul {
+  list-style: none;
+  padding: 0;
+}
+
+.bucket li {
+  margin-bottom: 10px;
+}
+
+.bucket button {
+  margin-right: 10px;
+}
+
+.addAll {
+  height: 50px;
+  margin-top: 350px;
+  margin-left: 10px;
+}
+
+.removeAll {
+  height: 50px;
+  margin-top: 350px;
+  margin-left: 10px;
+}
